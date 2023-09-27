@@ -16,6 +16,10 @@
 ## Page 구상도
 ![image](https://github.com/ainochi-kor/milli-rock/assets/48821257/15f11e08-8ad4-4858-bdfc-e1c67a8f2088)
 
+## issue
+- [vercel style guide](https://github.com/ainochi-kor/milli-rock/issues/4)
+- [.eslintrc.cjs를 써야하는 이유](https://github.com/ainochi-kor/milli-rock/issues/5)
+
 ## link
 - [Figma](https://www.figma.com/file/Rfhoo1zGm9MCyfrlQ35gao/Untitled?type=whiteboard&node-id=0%3A1&t=Yf2IayA0ponQFvii-1)
 - [군락부](https://rock-tau.vercel.app/)
