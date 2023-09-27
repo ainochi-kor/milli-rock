@@ -25,6 +25,6 @@
 - [군락부](https://rock-tau.vercel.app/)
 
 ## 후기
-turborepo와 ve(vanilla-extract), typescript 5.2를 사용해보고 싶어서 간단하게 만들어보았습니다. 
-만들면서 turborepo에 새로운 기능들이 추가되고, 이번에 터보레포에서 `@vercel/style-guide`를 기본으로 지원해주는 바람에 한번 사용해보았는데, 
+`turborepo`와 `ve(vanilla-extract)`, `typescript 5.2`를 사용해보고 싶어서 간단하게 만들어보았습니다. <br/>
+최근에 `turborepo`에 새로운 기능들이 추가되고, 이번에 터보레포에서 `@vercel/style-guide`를 기본으로 지원해주는 바람에 한번 사용해보았는데, 
 생각보다 유용한 린팅 시스템이어서 만족하였습니다. 
